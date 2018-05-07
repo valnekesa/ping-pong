@@ -8,12 +8,12 @@
 .head{
   background-color: #b0b8c4;
 }
-.space{
+.prop{
   padding:5%;
 }
-.aboutping{
+.about{
   padding: 5px;
-  background: url(../images/download.jpeg);
+  background-repeat: no-repeat;
 }
 .col-md-9{
   padding-right: 200px;
@@ -22,7 +22,7 @@
 .space2{
   height: 30%;
 }
-.play{
+.player{
   float: right;
   padding: 2%;
 }
