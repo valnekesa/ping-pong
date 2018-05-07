@@ -1,0 +1,28 @@
+.jumbotron{
+  margin: 0;
+  background: url(../images/cartoon.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top:400px;
+}
+.head{
+  background-color: #b0b8c4;
+}
+.space{
+  padding:5%;
+}
+.aboutping{
+  padding: 5px;
+  background: url(../images/download.jpeg);
+}
+.col-md-9{
+  padding-right: 200px;
+  padding-top: 0px;
+}
+.space2{
+  height: 30%;
+}
+.play{
+  float: right;
+  padding: 2%;
+}
