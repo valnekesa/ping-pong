@@ -1,6 +1,6 @@
 Project Name: pingpong
 
-Author(s) Edith Amadi. Description of Project This website allows the user to enter a number ,counts through it and gives the result as ping for 3,pong for 5 and pingpong for 15. Project setup instructions To see the work done use the following commands:
+Author(s) Valentine Nekesa. Description of Project This website allows the user to enter a number ,counts through it and gives the result as ping for 3,pong for 5 and pingpong for 15. Project setup instructions To see the work done use the following commands:
 
 `git clone https://github.com/valnekesa/ping-pong.git
 cd pingpong
