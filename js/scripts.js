@@ -19,13 +19,12 @@ function converter(input) {
 //  user interface logic
 $(document).ready(function() {
   $("form#numberInput").submit(function(event){
-
-    $(".output").text("");
-
     var input = $("input#number").val();
-    converter(input);
-
-    event.preventDefault();
+  $(".output").text("");
+   converter(input);
+   $(".output").show();
+   $("#number").val();
+   event.preventDefault();
     });
 
   });
